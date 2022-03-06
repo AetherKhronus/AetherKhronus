@@ -3,9 +3,9 @@
 <br>
 My name is Pedro but I go by Aether Khronus online. 
 <br>
-I'm a 21 year old portuguese *computer engineering* student who is *enthusiastic* about video game development and who streams from time to time. 
+I'm a 21 year old portuguese *computer engineering* student who is *enthusiastic* about video game development and who *streams* from time to time. 
 <br>
-I speak Portuguese, German and English fluently. 
+I speak *portuguese*, *german* and *english* fluently. 
 <br> 
 <br>
 <br>
